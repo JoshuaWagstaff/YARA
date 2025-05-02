@@ -30,76 +30,118 @@ Strings: Used to extract human-readable strings from suspicious files to aid in 
 
 Steps
 
+---
+
 <img width="629" alt="1 - scenerio" src="https://github.com/user-attachments/assets/9acff6cd-2340-4f5f-a17f-f6fdd3dc09f0" />
 Ref.1: Scenario
+
+---
 
 <img width="428" alt="2-question 1" src="https://github.com/user-attachments/assets/e75ed284-39c0-49c3-a829-006e5372cb4b" />
 Ref.2: Question 1
 
+---
+
 <img width="584" alt="3 - loading loki directory" src="https://github.com/user-attachments/assets/6122b5dd-2ab5-4933-b255-28791f3c12d4" />
 Ref.3: Loading loki directory
+
+---
 
 <img width="506" alt="4- suspicious files detected" src="https://github.com/user-attachments/assets/65920457-4ca6-4139-aed5-edb9cc473781" />
 Ref.4: Suspicious file detected 
 
+---
+
 <img width="626" alt="5 - answer 1" src="https://github.com/user-attachments/assets/d23afb7e-8d1e-463e-aa83-a2b5afdc7f66" />
 Ref.1: Answer 1
+
+---
 
 <img width="218" alt="6- question 2" src="https://github.com/user-attachments/assets/94d83591-137d-4baf-966f-3d51f42e202a" />
 Ref.6: Question 2
 
+---
+
 <img width="584" alt="7- rule match" src="https://github.com/user-attachments/assets/7f87d396-4a0e-4b07-9c73-88b680576197" />
 Ref.7: Rule Match
+
+---
 
 <img width="646" alt="8 - question 2 answer" src="https://github.com/user-attachments/assets/1ef7fce3-37e6-4098-b11a-623c04d2e757" />
 Ref.8: Question 2 answer
 
+---
+
 <img width="205" alt="9 - question 3" src="https://github.com/user-attachments/assets/307228c2-1c51-4403-a96c-2144af257caa" />
 Ref.9: Question 3 
+
+---
 
 <img width="655" alt="10- question 3 answer" src="https://github.com/user-attachments/assets/fd5b1253-0f62-45f7-991d-fe6f12925f78" />
 Ref.10: Question 3 answer
 
+---
+
 <img width="642" alt="11- question 4 and answer string match" src="https://github.com/user-attachments/assets/edaca230-783f-45b5-ab18-79efda87dc08" />
 Ref.11: Question 4 & answer
+
+---
 
 <img width="638" alt="12 - question 5" src="https://github.com/user-attachments/assets/afb70c43-4583-47da-a56b-7e45f282b5f4" />
 Ref.12: Question 5
 
+---
+
 <img width="581" alt="13 - question 5 located" src="https://github.com/user-attachments/assets/fdca6484-14a6-4b72-9611-c2ca78ed4c73" />
 Ref.13: Question 5 answer located 
+
+---
 
 <img width="647" alt="14 - questino 5 answer" src="https://github.com/user-attachments/assets/bb150290-72a2-4551-9cdc-5a141af35925" />
 Ref.14: Correct answer
 
+---
 
 <img width="649" alt="15 - file 2 scan" src="https://github.com/user-attachments/assets/d990aafe-78de-4aad-ad48-54d48f126259" />
 Ref.15: File 2 scan
 
+---
+
 <img width="577" alt="16 - file 2 scan" src="https://github.com/user-attachments/assets/f9182e82-cc46-45c3-a56d-02747979f966" />
 Ref.16 file 2 scan
 
+---
 
 <img width="269" alt="17 - system is clean" src="https://github.com/user-attachments/assets/4de53731-02b5-4032-92d8-787ab165a34c" />
 Ref.17 System is clean
 
+---
+
 <img width="641" alt="18 - answer (benign)" src="https://github.com/user-attachments/assets/0109ae5b-6a29-443c-883f-25c9c777b1c2" />
 Ref.18: Answer- benign
+
+---
+
 
 <img width="449" alt="19 - analyzing file 2" src="https://github.com/user-attachments/assets/977bbf7e-59d9-40df-8b17-68286ace46bd" />
 Ref.19- analyzing file 2
 
+---
 
 <img width="573" alt="20- name   version of web shell for file 2" src="https://github.com/user-attachments/assets/a7eab471-8c58-4c69-bd9a-8f931874815e" />
 Ref.20: name & version of web shell
 
+---
+
 <img width="637" alt="21- answer " src="https://github.com/user-attachments/assets/ca21adff-6b4b-4dd7-bfe9-ef7e27303906" />
 Ref.21: answer
 
+---
 
 <img width="634" alt="22- question " src="https://github.com/user-attachments/assets/70e947b8-5b45-4da5-9df5-bdd387ea4391" />
 Ref.22: question
 
+---
 
 <img width="1253" alt="24 - online webshell lookup" src="https://github.com/user-attachments/assets/8c6d553c-af70-479b-b46d-636981cb2ae3" />
 Ref.23: online webshell lookup
